@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "Dmitry Ponyatov <dponyatov@gmail.com>"
-description   = "A new awesome nimble package"
+description   = "stream/graph database engine for IoT applications"
 license       = "MIT"
 srcDir        = "src"
 bin           = @["iodb"]
